@@ -1,1 +1,2 @@
-print("Hello world!")
+print("Hello world!")  # строка которая выводит хелло ворлд
+
